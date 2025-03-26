@@ -5,7 +5,7 @@ number2 = int(input('Enter second number: '))
 number3 = int(input('Enter third number: '))
 
 
-print(/nnumber1,number2,number3)
+print(number1,number2,number3)
 print('In ascending order is: ')
 
 minimum=number1
